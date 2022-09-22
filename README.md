@@ -1,2 +1,2 @@
-# 11.-Calendar
+# Calendar
 Calendar using Tkinter GUI in Python
